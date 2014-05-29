@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: joomla k2 to wordpress, joomla k2 to wordpress mirgation, convert joomla k2 to wordpress, migrate joomla k2 to wordpress
 Requires at least: 3.0.0
-Tested up to: 3.8
+Tested up to: 3.9.1
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
