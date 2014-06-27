@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: Joomla! K2 to WordPress Website Migration  ===
 Contributors: cms2cms
-Tags: joomla k2 to wordpress, joomla k2 to wordpress mirgation, convert joomla k2 to wordpress, migrate joomla k2 to wordpress
+Tags: joomla k2 to wordpress, joomla k2 to wordpress migration, convert joomla k2 to wordpress, migrate joomla k2 to wordpress, comments, posts, images, plugin
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 3.6.2
