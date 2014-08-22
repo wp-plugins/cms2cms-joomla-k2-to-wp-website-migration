@@ -13,6 +13,9 @@ If you have the intention to convert all your data from Joomla K2 to WordPress, 
 
 If you have the intention to convert all your data from Joomla K2 to WordPress, then this plugin is definitely what you need. It will provide you with the possibility to make the process of migration fully automated. 
 
+* *There is Free Demo available (migration of limited number of pages, users, comments).*
+* *Full Migration starts from $39.*
+
 = The following items can be converted: = 
 * Posts
 * Categories
@@ -24,6 +27,9 @@ If you have the intention to convert all your data from Joomla K2 to WordPress, 
 * Attachments
 * Menu Items 
 * 301 Redirects
+
+= Video =
+[youtube https://www.youtube.com/watch?v=XaW4_kAdldM]
 
 **It works with all versions of Joomla K2 and WordPress 3.x.**
 
@@ -42,7 +48,6 @@ If you have the intention to convert all your data from Joomla K2 to WordPress, 
 * It offers the possibility to run a free Demo Migration and convert up to 100 pages with no charge. 
 
 **More information on how to convert Joomla! K2 to WordPress you can find here: http://www.cms2cms.com/supported-cms/joomla-k2-to-wordpress-migration/ **
-
 
 == Installation ==
 
