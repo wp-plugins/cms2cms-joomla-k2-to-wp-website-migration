@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: joomla k2 to wordpress, joomla k2 to wordpress migration, convert joomla k2 to wordpress, migrate joomla k2 to wordpress, comments, posts, images, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,7 +31,7 @@ If you have the intention to convert all your data from Joomla K2 to WordPress, 
 = Video =
 [youtube https://www.youtube.com/watch?v=XaW4_kAdldM]
 
-**It works with all versions of Joomla K2 and WordPress 3.x.**
+**It works with all versions of Joomla K2 and WordPress 4.x.**
 
 **Notice: It is supported the migration of mp3, video and image gallery files from Joomla K2. **
 
@@ -47,7 +47,7 @@ If you have the intention to convert all your data from Joomla K2 to WordPress, 
 * It provides the users with the easy-to-use wizard which means that there is no need to have any additional coding knowledge. 
 * It offers the possibility to run a free Demo Migration and convert up to 100 pages with no charge. 
 
-**More information on how to convert Joomla! K2 to WordPress you can find here: http://www.cms2cms.com/supported-cms/joomla-k2-to-wordpress-migration/ **
+**More information on how to convert Joomla! K2 to WordPress you can find here: http://www.cms2cms.com/supported-cms/joomla-k2-to-wordpress-migration/?utm_source=Joomla-K2&utm_medium=Link&utm_campaign=WordPress_plugins**
 
 == Installation ==
 
