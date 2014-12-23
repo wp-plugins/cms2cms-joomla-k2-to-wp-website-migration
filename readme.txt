@@ -47,6 +47,11 @@ If you have the intention to convert all your data from Joomla K2 to WordPress, 
 * It provides the users with the easy-to-use wizard which means that there is no need to have any additional coding knowledge. 
 * It offers the possibility to run a free Demo Migration and convert up to 100 pages with no charge. 
 
+Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
+Phone support – 24 hours a day, Monday – Friday
+Live Chat support – 24 hours a day, Monday – Friday
+Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+
 **More information on how to convert Joomla! K2 to WordPress you can find here: http://www.cms2cms.com/supported-cms/joomla-k2-to-wordpress-migration/?utm_source=Joomla-K2&utm_medium=Link&utm_campaign=WordPress_plugins**
 
 == Installation ==
